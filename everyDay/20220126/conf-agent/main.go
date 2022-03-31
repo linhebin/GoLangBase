@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"go.etcd.io/etcd/version"
+	"conf-agent/version"
 )
 
 var (
